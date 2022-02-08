@@ -1,0 +1,8 @@
+km=float(input())
+cm=km*100000
+print(cm)
+
+Output:
+50
+5000000.0
+> 
